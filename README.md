@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://rajatkumarmaharana.vercel.app/](https://rajatkumarmaharana.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://rajat-kumar-maharana.vercel.app/](https://rajat-kumar-maharana.vercel.app/)
 
 - 💬 Ask me about **React, Next, MERN, JavaScript, Java**
 
