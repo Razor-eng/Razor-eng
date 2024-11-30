@@ -25,23 +25,32 @@ A Computer Science student with a BTech degree who has completed a Full Stack Ja
 
 <h4>Front-End Development:</h4>
 - HTML, CSS, JavaScript: Core technologies for building interactive web pages.
-- Frameworks/Libraries: Experience with front-end frameworks like Angular, React, or Vue.js.
-- Responsive Design: Building mobile-friendly websites using Bootstrap or similar tools.
-- Back-End Development:
+
+- Frameworks/Libraries: Experience with front-end frameworks like Angular, React, Next or Vue.js.
+  
+- Responsive Design: Building mobile-friendly websites using Bootstrap, Tailwind CSS, Shadcn or similar tools.
+  
+<h4>Back-End Development:</h4>
 - Java: Expertise in using Java for server-side programming, including servlets and JSP (Java Server Pages).
+  
 - Spring Framework: Knowledge of Spring Boot for building efficient, scalable applications with REST APIs.
-- Database Management: Experience with SQL (MySQL, PostgreSQL) and NoSQL databases (MongoDB) for data storage and retrieval.
+  
+- Database Management: Experience with SQL (MySQL) and NoSQL databases (MongoDB) for data storage and retrieval.
+  
 - Web Services: Building RESTful APIs for integration with front-end applications.
 
 <h4>Tools and Technologies:</h4>
 - Version Control: Proficient with Git and GitHub for version control and collaboration.
-- Integrated Development Environments (IDEs): Experience with tools like IntelliJ IDEA, Eclipse, or VS Code.
-- Testing: Familiar with unit testing and tools like JUnit, Mockito for backend testing.
-- Deployment: Understanding of deployment strategies, including using Docker, Kubernetes, and cloud platforms (AWS, Azure).
+
+- Integrated Development Environments (IDEs): Experience with tools like IntelliJ IDEA, Py Charm, Eclipse, or VS Code.
+    
+- Deployment: Understanding of deployment strategies, including using Vercel and Firebase.
 
 <h4>Soft Skills:</h4>
 - Problem-Solving: Strong analytical skills for debugging and optimizing applications.
+
 - Collaboration: Ability to work in teams, understand requirements, and deliver software solutions.
+  
 - Adaptability: Quick to learn new technologies and tools to stay up-to-date with industry trends.
 
 <h3 align="left">Languages and Tools:</h3>
