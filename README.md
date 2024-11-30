@@ -18,6 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rajat_maharana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajat_maharana" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rajat-kumar-maharana-80103820b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="rajat_maharana" height="30" width="40" /></a>
+<a href="https://github.com/razor-eng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rajat_maharana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">About me:</h3>
