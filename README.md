@@ -61,5 +61,3 @@ A Computer Science student with a BTech degree who has completed a Full Stack Ja
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razor-eng&show_icons=true&locale=en&layout=compact" alt="razor-eng" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razor-eng&show_icons=true&locale=en" alt="razor-eng" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razor-eng&" alt="razor-eng" /></p>
